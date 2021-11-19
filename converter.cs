@@ -1,7 +1,7 @@
 using System.IO;
 using System.Xml.Serialization;
 
-using (FileStream fs = new FileStream(@"D:\youXMLFile.xml", FileMode.Open))
+using (FileStream fs = new FileStream(@"testfile.xml", FileMode.Open))
 {
     XmlSerializer serializer = new XmlSerializer(typeof(Sequence[]));
     var data=(Sequence[]) serializer.Deserialize(fs);
@@ -12,7 +12,7 @@ using (FileStream fs = new FileStream(@"D:\youXMLFile.xml", FileMode.Open))
         foreach (var point in item.SourcePath) ss.Add(point.X + "," + point.Y);
         list.Add(string.Join(",", ss));
     }
-    File.WriteAllLines("D:\\csvFile.csv", list);
+    File.WriteAllLines("export.csv", list);
 }
 
 public class Sequence
