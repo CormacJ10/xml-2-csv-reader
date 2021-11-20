@@ -1,0 +1,16 @@
+C:\Users\jjim4\Documents\GitHub\xml-2-csv-reader\xml2csv\xml2csv\bin\Debug\net5.0\xml2csv.exe
+C:\Users\jjim4\Documents\GitHub\xml-2-csv-reader\xml2csv\xml2csv\bin\Debug\net5.0\xml2csv.deps.json
+C:\Users\jjim4\Documents\GitHub\xml-2-csv-reader\xml2csv\xml2csv\bin\Debug\net5.0\xml2csv.runtimeconfig.json
+C:\Users\jjim4\Documents\GitHub\xml-2-csv-reader\xml2csv\xml2csv\bin\Debug\net5.0\xml2csv.runtimeconfig.dev.json
+C:\Users\jjim4\Documents\GitHub\xml-2-csv-reader\xml2csv\xml2csv\bin\Debug\net5.0\xml2csv.dll
+C:\Users\jjim4\Documents\GitHub\xml-2-csv-reader\xml2csv\xml2csv\bin\Debug\net5.0\ref\xml2csv.dll
+C:\Users\jjim4\Documents\GitHub\xml-2-csv-reader\xml2csv\xml2csv\bin\Debug\net5.0\xml2csv.pdb
+C:\Users\jjim4\Documents\GitHub\xml-2-csv-reader\xml2csv\xml2csv\obj\Debug\net5.0\xml2csv.csproj.AssemblyReference.cache
+C:\Users\jjim4\Documents\GitHub\xml-2-csv-reader\xml2csv\xml2csv\obj\Debug\net5.0\xml2csv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jjim4\Documents\GitHub\xml-2-csv-reader\xml2csv\xml2csv\obj\Debug\net5.0\xml2csv.AssemblyInfoInputs.cache
+C:\Users\jjim4\Documents\GitHub\xml-2-csv-reader\xml2csv\xml2csv\obj\Debug\net5.0\xml2csv.AssemblyInfo.cs
+C:\Users\jjim4\Documents\GitHub\xml-2-csv-reader\xml2csv\xml2csv\obj\Debug\net5.0\xml2csv.csproj.CoreCompileInputs.cache
+C:\Users\jjim4\Documents\GitHub\xml-2-csv-reader\xml2csv\xml2csv\obj\Debug\net5.0\xml2csv.dll
+C:\Users\jjim4\Documents\GitHub\xml-2-csv-reader\xml2csv\xml2csv\obj\Debug\net5.0\ref\xml2csv.dll
+C:\Users\jjim4\Documents\GitHub\xml-2-csv-reader\xml2csv\xml2csv\obj\Debug\net5.0\xml2csv.pdb
+C:\Users\jjim4\Documents\GitHub\xml-2-csv-reader\xml2csv\xml2csv\obj\Debug\net5.0\xml2csv.genruntimeconfig.cache
